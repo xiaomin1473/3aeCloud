@@ -38,3 +38,4 @@ user
 ## Situation
 
 
+打算用VUE重构mall项目前端，用node作为中间件，然后进行服务端渲染
