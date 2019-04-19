@@ -1,5 +1,5 @@
 git add * 
-git commit -m "add config.........."
+git commit -m "add config..........."
 git push
 
 
